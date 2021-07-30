@@ -4,4 +4,4 @@ testing aja nih bos
 - belajar perbedaan git dan github
 - ternyata git dan git hub adalah sesuatu yg berbeda
 - ini tambahan dari yg pertama
-- mungkin akan terlihat di commit
+- yang tadi sempat di hapus
