@@ -1,0 +1,5 @@
+testing aja nih bos
+- belajar bikin file
+- belajar apa itu git
+- belajar perbedaan git dan github
+- ternyata git dan git hub adalah sesuatu yg berbeda
