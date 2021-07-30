@@ -3,3 +3,5 @@ testing aja nih bos
 - belajar apa itu git
 - belajar perbedaan git dan github
 - ternyata git dan git hub adalah sesuatu yg berbeda
+- ini tambahan dari yg pertama
+- mungkin akan terlihat di commit
